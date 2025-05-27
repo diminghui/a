@@ -1,0 +1,22 @@
+[
+  {
+    "name": "astral-sh/ty",
+    "description": "An extremely fast Python type checker and language server, written in Rust.",
+    "url": "https://github.com/astral-sh/ty",
+    "stars": 8952,
+    "language": "Python",
+    "created_at": "2025-05-02T16:37:51Z",
+    "updated_at": "2025-05-27T14:02:41Z",
+    "forks": 82
+  },
+  {
+    "name": "microsoft/magentic-ui",
+    "description": "A research prototype of a human-centered web agent",
+    "url": "https://github.com/microsoft/magentic-ui",
+    "stars": 4336,
+    "language": "Python",
+    "created_at": "2025-05-05T20:24:30Z",
+    "updated_at": "2025-05-27T14:07:54Z",
+    "forks": 378
+  }
+]
